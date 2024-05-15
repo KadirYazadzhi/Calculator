@@ -25,7 +25,7 @@
 
 ### 📝 Description
 
-This web calculator is built using HTML, CSS, and JavaScript. It provides a convenient and easy way to perform various mathematical operations directly through the web browser.
+This repository contains a source code for simple calculator create with HTML, CSS and JavaScript. It provides a convenient and easy way to perform various mathematical operations directly through the web browser.
 
 
 ## 💻 Technologies
